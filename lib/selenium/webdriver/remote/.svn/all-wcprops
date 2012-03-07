@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/remote
+END
+response.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/remote/response.rb
+END
+server_error.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/remote/server_error.rb
+END
+commands.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/remote/commands.rb
+END
+capabilities.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/remote/capabilities.rb
+END
+bridge.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/remote/bridge.rb
+END

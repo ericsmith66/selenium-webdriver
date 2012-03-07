@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/common/core_ext
+END
+dir.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/common/core_ext/dir.rb
+END
+base64.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/common/core_ext/base64.rb
+END
+string.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/common/core_ext/string.rb
+END

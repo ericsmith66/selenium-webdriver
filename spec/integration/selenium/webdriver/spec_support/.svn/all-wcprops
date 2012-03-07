@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/spec_support
+END
+jruby_test_environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/spec_support/jruby_test_environment.rb
+END
+helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/spec_support/helpers.rb
+END
+test_environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/spec_support/test_environment.rb
+END
+guards.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/spec_support/guards.rb
+END
+rack_server.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/spec_support/rack_server.rb
+END

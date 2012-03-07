@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/unit/selenium/webdriver
+END
+action_builder_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/unit/selenium/webdriver/action_builder_spec.rb
+END
+wait_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/unit/selenium/webdriver/wait_spec.rb
+END
+socket_poller_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/unit/selenium/webdriver/socket_poller_spec.rb
+END
+search_context_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/unit/selenium/webdriver/search_context_spec.rb
+END
+spec_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/unit/selenium/webdriver/spec_helper.rb
+END
+proxy_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/unit/selenium/webdriver/proxy_spec.rb
+END

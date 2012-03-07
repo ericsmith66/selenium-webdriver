@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/client/api
+END
+wait_for_element_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/client/api/wait_for_element_spec.rb
+END
+click_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/client/api/click_spec.rb
+END
+select_window_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/client/api/select_window_spec.rb
+END
+backward_compatible_api_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/client/api/backward_compatible_api_spec.rb
+END
+retrieve_last_remote_control_logs_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/client/api/retrieve_last_remote_control_logs_spec.rb
+END
+wait_for_field_value_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/client/api/wait_for_field_value_spec.rb
+END
+element_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/client/api/element_spec.rb
+END
+cookie_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/client/api/cookie_spec.rb
+END
+browser_xpath_library_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/client/api/browser_xpath_library_spec.rb
+END
+highlight_located_element_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/client/api/highlight_located_element_spec.rb
+END
+screenshot_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/client/api/screenshot_spec.rb
+END
+wait_for_ajax_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/client/api/wait_for_ajax_spec.rb
+END
+wait_for_text_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/client/api/wait_for_text_spec.rb
+END
+start_stop_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/client/api/start_stop_spec.rb
+END

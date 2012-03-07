@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/common/driver_extensions
+END
+rotatable.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/common/driver_extensions/rotatable.rb
+END
+takes_screenshot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/common/driver_extensions/takes_screenshot.rb
+END
+uploads_files.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/common/driver_extensions/uploads_files.rb
+END
+has_input_devices.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/common/driver_extensions/has_input_devices.rb
+END

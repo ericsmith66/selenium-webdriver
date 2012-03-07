@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/ie
+END
+server.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/ie/server.rb
+END
+bridge.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/ie/bridge.rb
+END

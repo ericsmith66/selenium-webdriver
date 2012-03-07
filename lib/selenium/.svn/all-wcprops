@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium
+END
+client.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/client.rb
+END
+server.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/server.rb
+END
+webdriver.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver.rb
+END

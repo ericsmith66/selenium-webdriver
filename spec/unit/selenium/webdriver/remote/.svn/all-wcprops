@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/unit/selenium/webdriver/remote
+END
+capabilities_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/unit/selenium/webdriver/remote/capabilities_spec.rb
+END
+bridge_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/unit/selenium/webdriver/remote/bridge_spec.rb
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/firefox
+END
+util.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/firefox/util.rb
+END
+socket_lock.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/firefox/socket_lock.rb
+END
+profile.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/firefox/profile.rb
+END
+launcher.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/firefox/launcher.rb
+END
+profiles_ini.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/firefox/profiles_ini.rb
+END
+binary.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/firefox/binary.rb
+END
+extension.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/firefox/extension.rb
+END
+bridge.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/firefox/bridge.rb
+END

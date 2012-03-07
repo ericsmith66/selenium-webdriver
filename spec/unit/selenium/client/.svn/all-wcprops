@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/unit/selenium/client
+END
+base_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/unit/selenium/client/base_spec.rb
+END
+javascript_expression_builder_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/unit/selenium/client/javascript_expression_builder_spec.rb
+END
+spec_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/unit/selenium/client/spec_helper.rb
+END
+extensions_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/unit/selenium/client/extensions_spec.rb
+END
+selenium_helper_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/unit/selenium/client/selenium_helper_spec.rb
+END
+protocol_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/unit/selenium/client/protocol_spec.rb
+END
+idiomatic_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/unit/selenium/client/idiomatic_spec.rb
+END

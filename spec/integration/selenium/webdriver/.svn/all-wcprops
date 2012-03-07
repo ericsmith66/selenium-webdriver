@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver
+END
+timeout_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/timeout_spec.rb
+END
+window_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/window_spec.rb
+END
+mouse_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/mouse_spec.rb
+END
+target_locator_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/target_locator_spec.rb
+END
+zipper_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/zipper_spec.rb
+END
+error_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/error_spec.rb
+END
+element_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/element_spec.rb
+END
+options_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/options_spec.rb
+END
+driver_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/driver_spec.rb
+END
+spec_support.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/spec_support.rb
+END
+spec_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/spec_helper.rb
+END
+navigation_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/navigation_spec.rb
+END
+keyboard_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/keyboard_spec.rb
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver
+END
+chrome.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/chrome.rb
+END
+ie.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/ie.rb
+END
+android.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/android.rb
+END
+iphone.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/iphone.rb
+END
+firefox.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/firefox.rb
+END
+opera.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/opera.rb
+END
+common.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/common.rb
+END
+remote.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/remote.rb
+END
+support.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/lib/selenium/webdriver/support.rb
+END

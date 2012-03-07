@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/firefox
+END
+driver_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/firefox/driver_spec.rb
+END
+profile_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/14794/tags/selenium-2.13.0/rb/spec/integration/selenium/webdriver/firefox/profile_spec.rb
+END
