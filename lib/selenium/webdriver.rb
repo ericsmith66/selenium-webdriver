@@ -12,7 +12,7 @@ have_lib = lambda { |lib|
   end
 }
 
-unless have_lib['yajl/json_gem'] || have_lib['json']
+unless have_lib['json']
   raise LoadError, <<-END
 
        You need to require rubygems or install one of these gems:
